@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frem", "frem.csproj", "{9AF68CD9-A86D-4DDD-B8F7-C3AEB0134FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF68CD9-A86D-4DDD-B8F7-C3AEB0134FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF68CD9-A86D-4DDD-B8F7-C3AEB0134FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF68CD9-A86D-4DDD-B8F7-C3AEB0134FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF68CD9-A86D-4DDD-B8F7-C3AEB0134FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA46D95-7E31-4724-ACCB-59B898182F0A}
+	EndGlobalSection
+EndGlobal
